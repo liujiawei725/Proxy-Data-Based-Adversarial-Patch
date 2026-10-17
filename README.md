@@ -1,12 +1,6 @@
-![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/logo.png)
 
 Generate Adversarial Path with Proxy Data Instead of Model Training Data.
 
-## Organization
-* School of Artificial Intelligence, Jilin University, Changchun, China
-* Department of Control Science and Engineering, Jilin University, Changchun, China
-* Engineering Research Center of Knowledge-Driven Human-Machine Intelligence, MOE, Jilin University, Changchun, China
-* College of Electronics and Information Engineering, Tongji University, Shanghai, China
 
 ## Background
 ![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/DF-APG.png)
